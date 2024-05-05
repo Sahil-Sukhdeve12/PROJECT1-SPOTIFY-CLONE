@@ -11,5 +11,5 @@ watch the demo video of this project to see how the basic spotify-clone looks.
 
 ### Click to View the video : ⬇️ 
 
-[![Demo]()](https://drive.google.com/drive/u/0/folders/1kH8UUMtvlpAO2AYIAbuoGKJvpOiAZrGl)
+[![Demo](https://drive.google.com/file/d/1ehxJVfI5BCNepZtTOuAA30wisf9pBOHW/view?usp=drive_link)](https://drive.google.com/drive/u/0/folders/1kH8UUMtvlpAO2AYIAbuoGKJvpOiAZrGl)
 
